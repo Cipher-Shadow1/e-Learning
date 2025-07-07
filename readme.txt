@@ -1,4 +1,4 @@
-![E-Learning Screenshot](./public/E-learning.png)
+![E-Learning Screenshot](./public/images/E-learning.png)
 
 E-Learning Next.js Landing Page Template
 
@@ -65,9 +65,9 @@ Open Source & Free: 100% free to use, customize, and deploy for any project.
 
 
 
-![Hero Section](./public/hero.png)
-![Courses Section](./public/Courses.png)
-![Login Signup Modal](./public/LogIn-SignUp.png)
+![Hero Section](./public/images/hero.png)
+![Courses Section](./public/images/Courses.png)
+![Login Signup Modal](./public/images/LogIn-SignUp.png)
 
 
 
