@@ -1,4 +1,4 @@
-![E-Learning Screenshot](./public/images/E-learninig.png)
+![E-Learning Screenshot](./learninig.png)
 
 E-Learning Next.js Landing Page Template
 
