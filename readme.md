@@ -36,7 +36,7 @@ Open Source & Free: 100% free to use, customize, and deploy for any project.
 
 ![Hero Section](./hero.png)
 ![Courses Section](./Courses.png)
-![Login Signup Modal](./LogIn-SignUp.png)
+![Login Signup Modal](./LogIn-SingUP.png)
 
 🛠️ Getting Started
 
